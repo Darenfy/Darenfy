@@ -1,4 +1,4 @@
-### 嗨！欢迎来到我的小屋 🏡
+<!-- ### 嗨！欢迎来到我的小屋 🏡
 上海交通大学在读硕士  
 
 目前主要研究方向为移动应用安全  
@@ -21,7 +21,7 @@ Graduate student at Shanghai Jiaotong University
 
 - 🔭 I’m currently working on mobile application security  
 
-- 🌱 I’m currently learning Symbolic Execution, Fuzzing, ML  
+- 🌱 I’m currently learning Symbolic Execution, Fuzzing, ML   -->
 
 <!--
 - 🔭 I’m currently working on 
